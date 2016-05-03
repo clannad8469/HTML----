@@ -1,0 +1,4 @@
+.box{
+    display: -webkit--flex;/* Safari */
+    display: flex;
+}
